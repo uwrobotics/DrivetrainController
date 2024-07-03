@@ -1,0 +1,2 @@
+../Core/Src/uart_joy_input.c:26:6:UartHandshake	8	static
+../Core/Src/uart_joy_input.c:36:6:HAL_UART_RxCpltCallback	32	static
