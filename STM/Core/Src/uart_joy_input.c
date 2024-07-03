@@ -55,8 +55,8 @@ void HAL_UART_RxCpltCallback(UART_HandleTypeDef *huart) {
 
 			arcade_drive(rotation, vertical_speed);
 
-			uint8_t ack_rx_buffer[2] = {vertical_speed, rotation};
-			HAL_UART_Transmit(&huart4, ack_rx_buffer, 2, 200);
+			//uint8_t ack_rx_buffer[2] = {vertical_speed, rotation};
+			//HAL_UART_Transmit(&huart4, ack_rx_buffer, 2, 200);
 
 			/*watchdog heart beat feature*/
 			HAL_GPIO_TogglePin(GPIOC, LL_GPIO_PIN_7);

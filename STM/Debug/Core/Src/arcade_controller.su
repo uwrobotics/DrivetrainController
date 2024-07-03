@@ -1,1 +1,1 @@
-..\Core\Src\arcade_controller.c:20:17:arcade_drive	16	static
+../Core/Src/arcade_controller.c:16:17:arcade_drive	24	static

@@ -13,6 +13,6 @@
 ../Drivers/STM32L5xx_HAL_Driver/Inc/stm32l5xx_ll_dma.h:2384:22:LL_DMA_ClearFlag_GI8	1
 ../Drivers/STM32L5xx_HAL_Driver/Inc/stm32l5xx_ll_bus.h:297:22:LL_AHB1_GRP1_ForceReset	1
 ../Drivers/STM32L5xx_HAL_Driver/Inc/stm32l5xx_ll_bus.h:320:22:LL_AHB1_GRP1_ReleaseReset	1
-..\Drivers\STM32L5xx_HAL_Driver\Src\stm32l5xx_ll_dma.c:132:13:LL_DMA_DeInit	42
-..\Drivers\STM32L5xx_HAL_Driver\Src\stm32l5xx_ll_dma.c:260:13:LL_DMA_Init	1
-..\Drivers\STM32L5xx_HAL_Driver\Src\stm32l5xx_ll_dma.c:332:6:LL_DMA_StructInit	1
+../Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_ll_dma.c:132:13:LL_DMA_DeInit	42
+../Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_ll_dma.c:260:13:LL_DMA_Init	1
+../Drivers/STM32L5xx_HAL_Driver/Src/stm32l5xx_ll_dma.c:332:6:LL_DMA_StructInit	1
